@@ -1,0 +1,29 @@
+#numberOne{
+  border: 2px solid cyan
+}
+
+#buttonSum{
+  background-color:lavender
+}
+
+#buttonSum:hover{
+  background-color: pink;
+}
+
+#numberTwo{
+  border: 2px solid cyan
+}
+
+#buttonSub{
+  background-color:pink
+}
+#buttonSub:hover{
+  background-color: #f9f89a;
+}
+#buttonMulti{
+  background-color:#f9f89a
+}
+
+#buttonMulti:hover{
+  background-color:lavender
+}
